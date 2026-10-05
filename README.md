@@ -1,9 +1,26 @@
-<a href="https://app.daily.dev/tishadifresco"><img src="https://api.daily.dev/devcards/b24048b1537745d08ef42328c9185ed9.png?r=7d6" width="400" alt="Tisha Di Fresco's Dev Card"/></a>
+# Hi, I'm Tisha 👋
 
-- 👋 Hi, I’m @DiFrescoTisha-FS
-- 👀 I’m interested in front-end web development.
-- 🌱 I’m currently learning to use GitHub and lots of Javascript.
-- 💞️ I'm a student at Full Sail University studying web development. 
-- 📫 How to reach me tishdifresco@outlook.com
+### Frontend Engineer | React • TypeScript • JavaScript
 
+I'm a Frontend Engineer and founder of **BrightPath Web Studio**, building modern web applications and frontend experiences for real-world businesses.
 
+I specialize in **React, TypeScript, and modern JavaScript**, with experience modernizing legacy systems, integrating APIs, implementing authentication and role-based workflows, and building responsive, reusable interfaces.
+
+## 🛠️ Core Technologies
+
+**Frontend:** React • TypeScript • JavaScript (ES6+) • HTML • CSS • Tailwind • Zustand • Vite
+
+**Application & Delivery:** REST APIs • Supabase • Netlify Functions • Headless CMS • Git/GitHub • Lighthouse
+
+## 🚀 What I'm Building
+
+- Production React + TypeScript applications
+- Business portals and dashboard-style interfaces
+- API-integrated frontend workflows
+- Responsive, accessible component systems
+- Modern replacements for legacy web applications
+
+## 🔗 Connect With Me
+
+**Portfolio:** https://brightpathwebstudio.org/portfolio  
+**LinkedIn:** https://www.linkedin.com/in/tisha-di-fresco-b8aba6309/
